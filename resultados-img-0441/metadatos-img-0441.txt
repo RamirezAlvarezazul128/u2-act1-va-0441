@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-extractor-0441.jpg
+Ruta del archivo: C:\IA_Gpo3H\ML-0441\mkdir p1-act1-0441\img-original-0441\img-extractor-0441.jpg
+Formato por extension: .JPG
+Tamano en bytes: 12121
+Tamano en KB: 11.84
+Tamano en MB: 0.0116
+
+DIMENSIONES
+-----------
+Ancho: 447 pixeles
+Alto: 447 pixeles
+Resolucion: 447 x 447
+Total de pixeles: 199,809
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 206.42
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 202.81
+Verde (G): 209.22
+Rojo (R): 207.22
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
